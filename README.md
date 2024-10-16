@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sandeep994014
+- 👋 Hi, I’m sandeep kumar chaurasiya , Associate Software Engineer
 - 👀 I’m interested in building scalable web applications, mastering the MERN stack, and exploring new frontend technologies.
 - 🌱 I’m currently learning advanced concepts in React, Next.js, and exploring backend optimizations with Node.js and MongoDB.
 - 💞️ I’m looking to collaborate on innovative web development projects, especially those focused on dynamic user interfaces and seamless user experiences.
